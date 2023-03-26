@@ -1,0 +1,19 @@
+{
+  "name": "the-amazingest-package",
+  "version": "0.0.1",
+  "description": "it don't do much but what it does is honest job",
+  "main": "index.js",
+  "repository": "https://github.com/Dan123655/the-amazingest-package",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "utility",
+    "fyp",
+    "raw",
+    "testtest"
+  ],
+  "author": "Dan",
+  "license": "ISC"
+}
