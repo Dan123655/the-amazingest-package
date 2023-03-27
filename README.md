@@ -17,7 +17,7 @@ Or using Yarn:
 
 ## Usage
 
-To use the `coRobi` function, simply import it into your project and call it with a string argument:
+To use the `coRobi`, `coMa` functions, simply import it into your project and call it with a string argument:
 
 ```javascript
 import { coRobi } from 'the-amazingest-package';
