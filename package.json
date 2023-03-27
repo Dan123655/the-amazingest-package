@@ -1,6 +1,6 @@
 {
   "name": "the-amazingest-package",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "it don't do much but what it does is honest job",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/antonk52/lilconfig"
-},
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
