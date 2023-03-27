@@ -22,7 +22,11 @@ To use the `coRobi` function, simply import it into your project and call it wit
 ```javascript
 import { coRobi } from 'the-amazingest-package';
 
-console.log(coRobi('John')); // Output: "John fotografuje slimaka!"
+coRobi('John'); // Output: "John fotografuje slimaka!"
+```
+```javascript
+import { coMa } from 'the-amazingest-package';
+  coMa(name)
 ```
 
 ##
