@@ -26,7 +26,15 @@ coRobi('John'); // Output: "John fotografuje slimaka!"
 ```
 ```javascript
 import { coMa } from 'the-amazingest-package';
-  coMa(name)
+  coMa(John)
+  //Output:'
+          (__)
+          (oo)
+    /------\\/
+   / |    ||
+    /\\---/\\
+     ~~   ~~
+  John Tylko Jedno W Glowie Ma...
 ```
 
 ##
